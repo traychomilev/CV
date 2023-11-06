@@ -1,7 +1,7 @@
 # Georgi Stoyanov Lazarov
 
 | Picture | Data of Birth | Residence | Phone Number | email |
-| ------------ | ------- | ------- | ------- | ------- |
+| --- | --- | --- | --- | --- |
 |  <img src="profile_picture.png" alt="Georgi's Picture" width="200" height="200"> | 09.01.1966 | Straldzha, Bulgaria | 0895410131 | georgi_lazarov1966@mail.bg |
 
 ---
@@ -19,6 +19,7 @@ Dedicated and skilled professional with a background in electrical engineering. 
 ### Work Experience
 
 **El Nova LTD, Stara Zagora**
+- **Position:** Electrical Technician Lead
 - **Position:** Electrical Technician
 
 **Responsibilities:**
