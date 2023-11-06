@@ -1,6 +1,6 @@
 # Georgi Stoyanov Lazarov
 
-![Georgi's Picture]((<profile_picture.png>))
+![Georgi's Picture](profile_picture.png)
 
 **Date of Birth:** 09.01.1966
 **Place of Birth:** Straldzha, Bulgaria
