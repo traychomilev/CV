@@ -1,91 +1,49 @@
+# Georgi Stoyanov Lazarov
+
+![Georgi's Picture](Image_URL)
+
+**Date of Birth:** 09.01.1966
+**Place of Birth:** Straldzha, Bulgaria
+
+**Contact Information:**
+- **Address:** [Your Address]
+- **Phone:** [Your Phone Number]
+- **Email:** [Your Email Address]
+
 ---
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+### Profile
 
+Dedicated and skilled professional with a background in electrical engineering. A team player with strong communication skills and proficiency in both Bulgarian and Russian languages. Experienced in the field of electrical technology and a commitment to delivering high-quality results.
 
-## Currently
+### Education
 
-Standing on the shoulders of giants
+- Graduated from the Communications Technical High School in Shumen, Bulgaria (1984)
+- **Specialization:** Electrical Technician
 
-### Specialized in
+### Work Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Electric Nova, Nova Zagora**
+- **Position:** Electrical Technician
+- **Dates of Employment:** [Start Date] - [End Date]
 
+**Responsibilities:**
+- Conducted electrical installations, maintenance, and repairs.
+- Collaborated effectively with a team to ensure a smooth workflow.
+- Demonstrated excellent problem-solving skills to resolve electrical issues.
+- Ensured compliance with safety standards and regulations.
 
-### Research interests
+### Languages
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Bulgarian: Native proficiency
+- Russian: Excellent proficiency
 
+### Additional Skills
 
-## Education
+- **Driver's License:** Category B
+- Proficient in various electrical tools and equipment.
+- Strong analytical and technical skills in the field of electrical engineering.
 
-`1654-1660`
-__The King's School, Grantham.__
+### References
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Available upon request.
