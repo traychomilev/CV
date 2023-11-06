@@ -1,18 +1,12 @@
 # Georgi Stoyanov Lazarov
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        # Georgi Stoyanov Lazarov
+| Contact Info |  Picture  |
+|-----------------------------|----------------------------------------------------------|
+| **Date of Birth:** 09.01.1966
+**Place of Birth:** Straldzha, Bulgaria
+- **Phone:** 0895410131
+- **Email:** georgi_lazarov1966@mail.bg | ![Georgi's Picture](profile_picture.png){: width="200" height="200"} |
 
-        **Date of Birth:** 09.01.1966
-        **Place of Birth:** Straldzha, Bulgaria
-        - **Phone:** 0895410131
-        - **Email:** georgi_lazarov1966@mail.bg
-    </div>
-    <div style="margin-left: 20px;"> <!-- Adjust the margin as needed -->
-        <img src="profile_picture.png" alt="Georgi's Picture" width="200" height="200">
-    </div>
-</div>
 
 ---
 
