@@ -2,19 +2,15 @@
 
 | Picture | Data of Birth | Residence | Phone Number | email |
 | --- | --- | --- | --- | --- |
-|  <img src="profile_picture.png" alt="Georgi's Picture" width="200" height="200"> | 09.01.1966 | Straldzha, Bulgaria | 0895410131 | georgi_lazarov1966@mail.bg |
+|  <img src="profile_picture.png" alt="Georgi's Picture" width="200" height="200"> | 09.01.1966 | Straldzha, Bulgaria | 📞 0895410131 | 📧 georgi_lazarov1966@mail.bg |
 
 ---
+<sup><sub>
 
 ### Profile
 
 Dedicated and skilled professional with a background in electrical engineering. A team player with strong communication skills and proficiency in both Bulgarian and Russian languages. Experienced in the field of electrical technology and a commitment to delivering high-quality results. Worked as a contractor in Germany for several years, which has provided me with valuable international experience and a deep understanding of the electrical industry in a diverse and demanding environment. This experience has further honed my technical skills and the ability to adapt to different work settings, making me a versatile and dependable professional.
 
-
-### Education
-
-- Graduated from the Communications Technical High School in Shumen, Bulgaria (1984)
-- **Specialization:** Electrical Technician
 
 ### Work Experience
 
@@ -34,6 +30,11 @@ Dedicated and skilled professional with a background in electrical engineering. 
 - Stayed up-to-date with the latest developments in electrical engineering and technology to apply innovative solutions to projects.
 - Played a key role in problem-solving and troubleshooting complex electrical issues, contributing to the success of various projects.
 
+### Education
+
+- Graduated from the Communications Technical High School in Shumen, Bulgaria (1984)
+- **Specialization:** Electrical Technician
+
 ### Languages
 
 - Bulgarian: Native proficiency
@@ -48,3 +49,5 @@ Dedicated and skilled professional with a background in electrical engineering. 
 ### References
 
 Available upon request.
+
+</sub></sup>
