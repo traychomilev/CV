@@ -45,7 +45,5 @@
 - Proficient in various electrical tools and equipment.
 - Strong analytical and technical skills in the field of electrical engineering.
 
- :::note References
- Available upon request.
- :::
-
+### References
+Available upon request.
