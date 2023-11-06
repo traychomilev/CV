@@ -1,20 +1,18 @@
 # Georgi Stoyanov Lazarov
 
-![Georgi's Picture](profile_picture.png)
+<img src="profile_picture.png" alt="Georgi's Picture" width="200" height="200">
 
 **Date of Birth:** 09.01.1966
 **Place of Birth:** Straldzha, Bulgaria
-
-**Contact Information:**
-- **Address:** [Your Address]
-- **Phone:** [Your Phone Number]
-- **Email:** [Your Email Address]
+- **Phone:** 0895410131
+- **Email:** georgi_lazarov1966@mail.bg
 
 ---
 
 ### Profile
 
-Dedicated and skilled professional with a background in electrical engineering. A team player with strong communication skills and proficiency in both Bulgarian and Russian languages. Experienced in the field of electrical technology and a commitment to delivering high-quality results.
+Dedicated and skilled professional with a background in electrical engineering. A team player with strong communication skills and proficiency in both Bulgarian and Russian languages. Experienced in the field of electrical technology and a commitment to delivering high-quality results. Worked as a contractor in Germany for several years, which has provided me with valuable international experience and a deep understanding of the electrical industry in a diverse and demanding environment. This experience has further honed my technical skills and the ability to adapt to different work settings, making me a versatile and dependable professional.
+
 
 ### Education
 
@@ -23,20 +21,25 @@ Dedicated and skilled professional with a background in electrical engineering. 
 
 ### Work Experience
 
-**Electric Nova, Nova Zagora**
+**El Nova LTD, Stara Zagora**
 - **Position:** Electrical Technician
-- **Dates of Employment:** [Start Date] - [End Date]
 
 **Responsibilities:**
-- Conducted electrical installations, maintenance, and repairs.
-- Collaborated effectively with a team to ensure a smooth workflow.
-- Demonstrated excellent problem-solving skills to resolve electrical issues.
-- Ensured compliance with safety standards and regulations.
+- Conducted electrical installations, maintenance, and repairs, ensuring the efficient operation of electrical systems and equipment.
+- Collaborated effectively with a diverse team, both locally and in international settings, to ensure a smooth workflow, fostering a cooperative and productive work environment.
+- Demonstrated excellent problem-solving skills, diagnosing and resolving complex electrical issues efficiently, which led to minimized downtime and increased productivity.
+- Ensured strict compliance with safety standards and regulations, implementing and promoting a safety-first culture on-site. Conducted safety training for team members and actively participated in safety inspections, maintaining an impeccable safety record.
+- Managed project timelines and budgets, ensuring projects were completed on time and within budget constraints.
+- Coordinated with clients to understand their specific electrical requirements and provided tailored solutions that met or exceeded their expectations.
+- Trained and mentored junior electrical technicians, sharing expertise and fostering their professional development.
+- Conducted regular inspections and maintenance to prevent equipment failures and improve overall system reliability.
+- Stayed up-to-date with the latest developments in electrical engineering and technology to apply innovative solutions to projects.
+- Played a key role in problem-solving and troubleshooting complex electrical issues, contributing to the success of various projects.
 
 ### Languages
 
 - Bulgarian: Native proficiency
-- Russian: Excellent proficiency
+- Russian: Excellent/Bilingual proficiency
 
 ### Additional Skills
 
