@@ -2,8 +2,9 @@
 
 | Contact Info |  Picture  |
 |-----------------------------|----------------------------------------------------------|
-| **Date of Birth:** 09.01.1966
-**Place of Birth:** Straldzha, Bulgaria
+| 
+- **Date of Birth:** 09.01.1966 
+- **Place of Birth:** Straldzha, Bulgaria
 - **Phone:** 0895410131
 - **Email:** georgi_lazarov1966@mail.bg | <img src="profile_picture.png" alt="Georgi's Picture" width="200" height="200"> | 
 ---
