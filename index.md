@@ -4,7 +4,7 @@
 
 - **Date of Birth:** 1975
 - **Place of Birth:** Straldzha
-- **Phone Number** 
+- **Phone Number** 0894052483
 
 ## Education
 
