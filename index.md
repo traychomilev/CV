@@ -37,6 +37,6 @@
 - **Customer Service:**
   - Excellent communication skills, ensuring customer satisfaction.
 
-## References
-
-Available upon request.
+## Languages
+ - Turkish
+ - Bulgarian
