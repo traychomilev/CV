@@ -2,9 +2,9 @@
 
 # Ivan Jovchev Ivanov
 
-- **Date of Birth:** 1975
-- **Place of Birth:** Straldzha
-- **Phone Number** 0894052483
+| Picture | Data of Birth | Residence | Phone Number | email |
+| --- | --- | --- | --- | --- |
+|  <img src="ivan.png" alt="Ivan's Picture" width="200" height="200"> | 1975 | Straldzha, Bulgaria | 0894052483 | ivaniovchev610@gmail.com |
 
 ## Education
 
