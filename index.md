@@ -5,7 +5,7 @@
 
 | Picture | Data of Birth | Residence | Phone Number | email | LinkedIn |
 | --- | --- | --- | --- | --- | --- |
-|  <img src="traycho_profile_photo.jpg" alt="Traycho's Profile Picture" width="200" height="200"> | 1991 | Bulgaria | +359886950896 | traychomilev@yahoo.com | https://www.linkedin.com/in/traycho-milev |
+|  <img src="traycho_profile_photo.jpeg" alt="Traycho's Profile Picture" width="200" height="200"> | 1991 | Bulgaria | ☎️+359886950896 |  ✉️traychomilev@yahoo.com | 🔗https://www.linkedin.com/in/traycho-milev |
 
 
 ## Work Experience
@@ -157,7 +157,7 @@
 - **Microsoft Excel - Advanced Excel by ITraining Bulgaria** - Dec 2020
 - **MySQL** by Software University (SoftUni) - Nov 2020
   - **Model European Union 05.09.2017-10.09.2017 /Leadership Training Conference/** - Sept 2017
-  
+
 ### Additional Skills
 - **Microservices Architecture**
 - **Serverless Computing**
