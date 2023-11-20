@@ -5,7 +5,7 @@
 
 | Picture      | Contact Details 
 | :----------- | :------------:|
-|  <img src="traycho_profile_photo.jpeg" alt="Traycho's Profile Picture" width="200" height="200"> | Bulgaria ☎️+359886950896 ✉️traychomilev@yahoo.com 🔗https://linkedin.com/in/traycho-milev |
+|  <img src="traycho_profile_photo.jpeg" alt="Traycho's Profile Picture" width="200" height="200"> | - Country: <br>Bulgaria <br> - Phone Number: ☎️+359886950896 <br> - email: ✉️traychomilev@yahoo.com <br> - LinkedIn: 🔗https://linkedin.com/in/traycho-milev |
 
 
 ## Work Experience
