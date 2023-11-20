@@ -3,9 +3,9 @@
 **Senior DataOps Engineer at DataOps.live with 9+ years experience! Proficient in 🐍Python 🐼Pandas 🎭Jinja ☁DevOps 🐳Docker ♾CI/CD 🔄Gitlab 🐘❄️SQL 🔢MDX 🛢️SSAS ✖️DBT 🔗Neo4J 🏗️Terraform 🔍Wireshark 🛠️Bash & 🐼Linux**
 
 
-| Picture      | Data of Birth | Residence | Phone Number | Email   | LinkedIn |
-| :----------- | :------------:| :--------:| :-----------: | :-----: | :------: |
-|  <img src="traycho_profile_photo.jpeg" alt="Traycho's Profile Picture" width="200" height="200"> | 1991 | Bulgaria | ☎️+359886950896 |  ✉️traychomilev@yahoo.com | 🔗https://linkedin.com/in/traycho-milev |
+| Picture      | Contact Details 
+| :----------- | :------------:|
+|  <img src="traycho_profile_photo.jpeg" alt="Traycho's Profile Picture" width="200" height="200"> | Bulgaria ☎️+359886950896 ✉️traychomilev@yahoo.com 🔗https://linkedin.com/in/traycho-milev |
 
 
 ## Work Experience
