@@ -5,7 +5,10 @@
 
 | Picture | Data of Birth | Residence | Phone Number | email | LinkedIn |
 | --- | --- | --- | --- | --- | --- |
-|  <img src="traycho_profile_photo.jpeg" alt="Traycho's Profile Picture" width="200" height="200"> | 1991 | Bulgaria | ☎️+359886950896 |  ✉️traychomilev@yahoo.com | 🔗https://www.linkedin.com/in/traycho-milev |
+|  <img src="traycho_profile_photo.jpeg" alt="Traycho's Profile Picture" width="200" height="200"> | 1991 | Bulgaria | ☎️
++359886950896 |  ✉️
+traychomilev@yahoo.com | 🔗
+https://linkedin.com/in/traycho-milev |
 
 
 ## Work Experience
