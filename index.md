@@ -52,6 +52,8 @@
 - **Training and Mentorship:** Developing team members' skills and knowledge
 
 ### Certifications
+- **Data Engineering Foundation Certification by Informatica ** - Dec 2023
+- **Getting Started with Rust by The Linux Foundation** - Dec 2023
 - **Intelligent Data Management Cloud (IDMC) Foundation by Informatica** - Nov 2023
 - **LFS145: Introduction to Protocol Buffers by The Linux Foundation** - Nov 2023
 - **D101: Dremio Fundamentals by Dremio** - Oct 2023
