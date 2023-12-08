@@ -52,6 +52,7 @@
 - **Training and Mentorship:** Developing team members' skills and knowledge
 
 ### Certifications
+- **RU101: Introduction to Redis Data Structures by Redis** - Dec 2023
 - **Data Engineering Foundation Certification by Informatica** - Dec 2023
 - **Getting Started with Rust by The Linux Foundation** - Dec 2023
 - **Intelligent Data Management Cloud (IDMC) Foundation by Informatica** - Nov 2023
