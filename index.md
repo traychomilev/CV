@@ -1,6 +1,6 @@
 # Traycho Milev
 
-**Senior DataOps Engineer at DataOps.live with 9+ years experience! Proficient in 🐍Python 🐼Pandas 🎭Jinja ☁DevOps 🐳Docker ♾CI/CD 🔄Gitlab 🐘❄️SQL 🔢MDX 🛢️SSAS ✖️DBT 🔗Neo4J 🏗️Terraform 🔍Wireshark 🛠️Bash & 🐼Linux**
+**Senior DataOps Engineer at DataOps.live with 10+ years experience! Proficient in 🐍Python 🐼Pandas 🎭Jinja ☁DevOps 🐳Docker ♾CI/CD 🔄Gitlab 🐘❄️SQL 🔢MDX 🛢️SSAS ✖️DBT 🔗Neo4J 🏗️Terraform 🔍Wireshark 🛠️Bash & 🐼Linux**
 
 
 | Picture      | Contact Details 
