@@ -52,6 +52,7 @@
 - **Training and Mentorship:** Developing team members' skills and knowledge
 
 ### Certifications
+- **Business 360 - Data Management for Supplier and Product by Informatica** - Jan 2024
 - **API Security for Connected Cars and Fleets by APIsec University** - Jan 2024
 - **RU101: Introduction to Redis Data Structures by Redis** - Dec 2023
 - **Data Engineering Foundation Certification by Informatica** - Dec 2023
