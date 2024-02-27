@@ -96,6 +96,8 @@
 - **API Security Fundamentals by APIsec University** - Apr 2023
 - **Spark: PySpark by Great Learning** - Apr 2023
 - **Splunk Tutorial by Great Learning** - Apr 2023
+- **Information Security by Rippling** - Apr 2023
+- **The GDPR Guru (IOSH approved and CPD certified) by Rippling** - Apr 2023
 - **API Penetration Testing by APIsec University** - Mar 2023
 - **Big Data Hadoop and Spark Developer training by Simplilearn** - Feb 2023
 - **Certified Information Systems Security Professional (CISSP) by Simplilearn** - Feb 2023
