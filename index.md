@@ -52,6 +52,8 @@
 - **Training and Mentorship:** Developing team members' skills and knowledge
 
 ### Certifications
+- **DevOps Engineer by SmartBear** - Mar 2024
+- **BugSnag Learning Series - Advanced by SmartBear** - Mar 2024
 - **API Gateway Security Best Practices by APIsec University** - Feb 2024
 - **Securing API Servers by APIsec University** - Feb 2024
 - **Zephyr Scale User Guide by SmartBear** - Feb 2024 
