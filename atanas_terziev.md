@@ -4,8 +4,7 @@
 
 | Picture | Data of Birth | Residence | Phone Number | email |
 | --- | --- | --- | --- | --- |
-|  <img src="atanas_terziev.png" alt="Atanas's Picture" width="200" height="200"> | 1979 | Straldzha, Bulgaria | +33773185892 | georgi_lazarov1966@mail.bg
- |
+|  <img src="atanas_terziev.png" alt="Atanas's Picture" width="200" height="200"> | 1979 | Straldzha, Bulgaria | +33773185892 | georgi_lazarov1966@mail.bg |
 
 ## Education
 
