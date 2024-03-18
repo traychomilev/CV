@@ -1,6 +1,6 @@
 # Traycho Milev
 
-**Senior DataOps Engineer at DataOps.live with 10+ years experience! Proficient in 🐍Python 🐼Pandas 🎭Jinja ☁DevOps 🐳Docker ♾CI/CD 🔄Gitlab 🐘❄️SQL 🔢MDX 🛢️SSAS ✖️DBT 🔗Neo4J 🏗️Terraform 🔍Wireshark 🛠️Bash & 🐼Linux**
+**Senior Consultant at Analytics8 with 10+ years as Certified Data Architect! Proficient in 🐍Python 🐼Pandas 🎭Jinja ☁DevOps 🐳Docker ♾CI/CD 🔄Gitlab 🐘❄️SQL 🔢MDX 🛢️SSAS ✖️DBT 🔗Neo4J 🏗️Terraform 🔍Wireshark 🛠️Bash & 🐼Linux**
 
 
 | Picture      | Contact Details 
@@ -10,7 +10,8 @@
 
 ## Work Experience
 
-- **DataOps.live** - *Senior Cloud Data Engineer* - *Aug 2022 - Present*
+- **Analytics8** - Senior Data Architecture Consultant - *Mar 2024 - Present*
+- **DataOps.live** - *Senior Cloud Data Engineer* - *Aug 2022 - Mar 2024*
 - **AtScale** - *Senior Sustainable IT Engineer* - *Oct 2021 - Aug 2022*
 - **ServiceSource(Concentrix)** - *Senior Business Intelligence Analyst Project Lead* - *Aug 2021 - Oct 2021*
 - **Dext** - *Senior Data Analysis Reporting Lead* - *May 2020 - Aug 2021*
@@ -52,6 +53,10 @@
 - **Training and Mentorship:** Developing team members' skills and knowledge
 
 ### Certifications
+- **Ultimate SnowPro Core Certification Course & Exam - 2024 by Udemy** - Mar 2024
+- **Structure of a Typical Analytics and Reporting Project by Analytics8** - Mar 2024
+- **Google Cloud Fundamentals: Core Infrastructure by Google** - Mar 2024
+- **Data Understanding by Analytics8** - Mar 2024
 - **DevOps Engineer by SmartBear** - Mar 2024
 - **BugSnag Learning Series - Advanced by SmartBear** - Mar 2024
 - **API Gateway Security Best Practices by APIsec University** - Feb 2024
