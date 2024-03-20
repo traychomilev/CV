@@ -53,6 +53,7 @@
 - **Training and Mentorship:** Developing team members' skills and knowledge
 
 ### Certifications
+- **Certified API Security Analyst by APIsec University** - Mar 2024
 - **Ultimate SnowPro Core Certification Course & Exam - 2024 by Udemy** - Mar 2024
 - **Structure of a Typical Analytics and Reporting Project by Analytics8** - Mar 2024
 - **Google Cloud Fundamentals: Core Infrastructure by Google** - Mar 2024
