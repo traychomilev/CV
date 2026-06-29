@@ -1,6 +1,6 @@
 # Traycho Milev
 
-**Senior Consultant at Analytics8 | Data Architecture, Cloud Platforms, AI Solution Design, RAG Pipelines & Vector Databases**
+**Senior Consultant at Analytics8** | **Data Architecture, Cloud Platforms, AI Solution Design, RAG Pipelines & Vector Databases**
 
 | Picture      | Contact Details 
 | :----------- | :------------|
@@ -9,6 +9,16 @@
 ## Profile
 
 Senior Data Architect and technology leader with 10+ years delivering modern data platforms, cloud-native analytics, and AI-enabled solutions. Experienced in scalable architecture, platform strategy, automation, governance, and cross-functional delivery across enterprise data and cloud environments. Strong focus on AI solution design, RAG pipelines, vector databases, semantic search, and pragmatic adoption of emerging data and AI capabilities.
+
+## Impact
+
+- Saved client over **$1M** through FinOps optimization initiatives
+- Maintained **99.9% SLA uptime** for over 500 production DAGs for enterprise client
+- Managed and maintained over **1M+ lines of code** across client infrastructure
+- Executed comprehensive **full DB migrations** for multiple clients
+- Architected and deployed **RAG solutions** for internal and client databases
+- Resolved critical technical debt and legacy system issues for enterprise clients
+- Built **production-grade API solutions from the ground up** with comprehensive security hardening
 
 ## Work Experience
 
