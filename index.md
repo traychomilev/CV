@@ -1,12 +1,14 @@
 # Traycho Milev
 
-**Senior Consultant at Analytics8 with 10+ years as Certified Data Architect! Proficient in 🐍Python 🐼Pandas 🎭Jinja ☁DevOps 🐳Docker ♾CI/CD 🔄Gitlab 🐘❄️SQL 🔢MDX 🛢️SSAS ✖️DBT 🔗Neo4J 🏗️Terraform 🔍Wireshark 🛠️Bash & 🐼Linux**
-
+**Senior Consultant at Analytics8 | Data Architecture, Cloud Platforms, AI Solution Design, RAG Pipelines & Vector Databases**
 
 | Picture      | Contact Details 
 | :----------- | :------------|
-|  <img src="traycho_profile_photo.jpeg" alt="Traycho's Profile Picture" width="200" height="200"> | - **Country**: Bulgaria <br> - **Phone Number**: ☎️+359886950896 <br> - **Email**: ✉️traychomilev@yahoo.com <br> - **LinkedIn**: 🔗https://linkedin.com/in/traycho-milev |
+|  <img src="traycho_profile_photo.jpeg" alt="Traycho's Profile Picture" width="160" height="160"> | - **Country**: Bulgaria <br> - **Phone Number**: ☎️+359886950896 <br> - **Email**: ✉️traychomilev@yahoo.com <br> - **LinkedIn**: 🔗https://linkedin.com/in/traycho-milev |
 
+## Profile
+
+Senior Data Architect and technology leader with 10+ years delivering modern data platforms, cloud-native analytics, and AI-enabled solutions. Experienced in scalable architecture, platform strategy, automation, governance, and cross-functional delivery across enterprise data and cloud environments. Strong focus on AI solution design, RAG pipelines, vector databases, semantic search, and pragmatic adoption of emerging data and AI capabilities.
 
 ## Work Experience
 
@@ -29,6 +31,7 @@
 - **Monitoring and Logging:** Datadog, Sentry, Grafana, ELK Stack(Kibana), Mixpanel
 - **Scripting and Programming Languages:** Python, Bash, JavaScript
 - **Database Management:** SQL(Snowflake, PostgreSQL, mySQL, BigQuery), GraphQL(Neo4J)
+- **AI & Modern Data:** AI solution design, RAG pipelines, vector databases, semantic search, LLM-enabled application architecture
 - **Networking:** TCP/IP, DNS, Load Balancing, VPNs, VPC
 
 ### DataOps
@@ -47,12 +50,47 @@
 
 ### Leadership and Collaboration
 - **Team Leadership:** Building and leading high-performing DataOps teams
+- **Technology Leadership:** Enterprise data architecture, cloud modernization, AI solution design, and platform strategy
 - **Communication Skills:** Articulating complex technical concepts to non-technical stakeholders
 - **Project Management:** Agile, Scrum, Kanban
 - **Collaborative Problem Solving:** Resolving issues efficiently through teamwork
 - **Training and Mentorship:** Developing team members' skills and knowledge
 
 ### Certifications
+- **Recent training highlights:** ThoughtSpot, LangChain, MCP, Airflow, FinOps, API Security, and AI architecture
+- **Partner Training - Healthcare & Life Sciences Industry Specialization for Gen AI & LLM by Databricks** - Jun 2026
+- **Hands-On RAG with LangChain: Build Real-World Projects by Udemy** - Jun 2026
+- **Certified ThoughtSpot Professional by ThoughtSpot** - Jun 2026
+- **Certified ThoughtSpot Administrator by ThoughtSpot** - May 2026
+- **Certified ThoughtSpot Cloud Architect by ThoughtSpot** - May 2026
+- **OpenClaw: Run Powerful & Autonomous AI Agents Securely by Udemy** - May 2026
+- **Installing OpenClaw On Azure Linux VM by Udemy** - May 2026
+- **Agentic AI - Risk and Cybersecurity by Udemy** - Apr 2026
+- **AI Agents & Workflows - The Practical Guide by Udemy** - Apr 2026
+- **Entity Framework in Depth: Differences Between Database-First and Code-First Workflows by Udemy** - Mar 2026
+- **Argo CD and Argo Rollouts for GitOps by Udemy** - Mar 2026
+- **Lab - Managed MCP's by Analytics8** - Feb 2026
+- **Agentic Workflows with MCP by Analytics8** - Feb 2026
+- **LFD140: GitHub for Open Standards Development by The Linux Foundation** - Jan 2026
+- **API Security Fundamentals by APIsec University** - Jan 2026
+- **PowerShell Mastery: Script, Automate & Succeed by Udemy** - Dec 2025
+- **MCP Security Fundamentals by APIsec University** - Dec 2025
+- **MCP Masterclass: Complete Guide to MCP in Python by Udemy** - Nov 2025
+- **MCP Developer Guide: Agents, Servers & Tools by Udemy** - Nov 2025
+- **Apache Airflow 3 Fundamentals by Astronomer** - Oct 2025
+- **API SecDevOps by APIsec University** - Oct 2025
+- **DAG Authoring for Apache Airflow 3 by Astronomer** - Sep 2025
+- **The Complete Hands-on Airbyte by Udemy** - Sep 2025
+- **Fivetran Bootcamp: Zero to Mastery by Udemy** - Sep 2025
+- **Apache Airflow Fundamentals by Astronomer** - Aug 2025
+- **APIsec Power User by APIsec University** - Aug 2025
+- **DataOps.live Data App Developer by DataOps.live, now a part of FICO** - Aug 2025
+- **Mastering FinOps - Practitioner Certification by Udemy** - Jul 2025
+- **FinOps Certified Practitioner (FOCP) by Udemy** - Jul 2025
+- **API Security in the World of DevSecOps by APIsec University** - Jun 2025
+- **Building Security into AI by APIsec University** - Jun 2025
+- **Web Application Security & SQL Injection by Udemy** - Jun 2025
+- **Tuning SQL for Higher Performance by Udemy** - Jun 2025
 - **Certified API Security Analyst by APIsec University** - Mar 2024
 - **Ultimate SnowPro Core Certification Course & Exam - 2024 by Udemy** - Mar 2024
 - **Structure of a Typical Analytics and Reporting Project by Analytics8** - Mar 2024
