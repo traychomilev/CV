@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Traycho Milev — Lead AI & Data Architect</title>
+<meta name="description" content="CV of Traycho Milev — Senior Data Architect and AI Solution Lead specializing in RAG pipelines, vector databases, LLM applications, and cloud-native data platforms." />
+<!-- SEO / social -->
+<meta property="og:title" content="Traycho Milev — Lead AI & Data Architect" />
+<meta property="og:description" content="10+ years delivering modern data platforms, cloud analytics, and AI-enabled solutions (RAG, vector databases, LLM apps, agentic workflows)." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --ink: #0f172a;
+    --ink-2: #475569;
+    --muted: #64748b;
+    --accent: #0f766e;
+    --accent-2: #0891b2;
+    --line: #e2e8f0;
+    --soft: #f1f5f9;
+    --chip: #ecfdf5;
+    --brand: linear-gradient(120deg, #0f766e 0%, #0891b2 100%);
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    color: var(--ink);
+    background: #cbd5e1;
+    line-height: 1.45;
+    margin: 0;
+    padding: 32px 16px 64px;
+  }
+  .sheet {
+    max-width: 1120px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 18px;
+    box-shadow: 0 20px 60px rgba(15, 23, 42, 0.18);
+    overflow: hidden;
+  }
+  a { color: inherit; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* ---------- Hero ---------- */
+  header {
+    background: var(--brand);
+    color: #fff;
+    padding: 40px 48px 34px;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 34px;
+    align-items: center;
+  }
+  header .avatar {
+    width: 132px; height: 132px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid rgba(255,255,255,0.4);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+  }
+  .hero-main h1 {
+    font-family: "IBM Plex Sans", "Inter", sans-serif;
+    font-size: 2.5rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    margin: 0 0 6px;
+    line-height: 1.05;
+  }
+  .hero-main .headline {
+    font-size: 1.08rem;
+    font-weight: 600;
+    opacity: 0.95;
+    margin: 0 0 12px;
+  }
+  .hero-main .tagline {
+    font-size: 0.92rem;
+    opacity: 0.85;
+    margin: 0;
+    max-width: 62ch;
+  }
+  .contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 18px;
+    margin-top: 16px;
+    font-size: 0.86rem;
+  }
+  .contact a, .contact span { display: inline-flex; align-items: center; gap: 6px; }
+  .contact .ico {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 22px; height: 22px; border-radius: 6px;
+    background: rgba(255,255,255,0.18); font-size: 12px;
+  }
+
+  /* ---------- Body ---------- */
+  .body { padding: 34px 48px 40px; }
+  section { margin-bottom: 26px; }
+  .section-title {
+    display: flex; align-items: center; gap: 12px;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 0.82rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.12em;
+    color: var(--accent);
+    margin-bottom: 14px;
+  }
+  .section-title::after { content: ""; flex: 1; height: 2px; background: var(--line); }
+
+  .lead { font-size: 0.98rem; color: var(--ink-2); max-width: 74ch; }
+
+  /* Impact grid */
+  .impact {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 12px;
+  }
+  .impact .card {
+    background: var(--soft);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 14px 16px;
+  }
+  .impact .card .num {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 1.5rem; font-weight: 800; color: var(--accent);
+    line-height: 1;
+  }
+  .impact .card .lbl { font-size: 0.82rem; color: var(--ink-2); margin-top: 6px; }
+
+  /* Experience */
+  .job { position: relative; padding: 0 0 18px 20px; border-left: 2px solid var(--line); margin-left: 6px; }
+  .job:last-child { padding-bottom: 0; }
+  .job::before {
+    content: ""; position: absolute; left: -6px; top: 4px;
+    width: 10px; height: 10px; border-radius: 50%;
+    background: var(--accent);
+  }
+  .job-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 4px 16px; }
+  .job-title { font-weight: 700; font-size: 0.98rem; }
+  .job-company { color: var(--accent); font-weight: 600; }
+  .job-dates { font-size: 0.82rem; color: var(--muted); white-space: nowrap; }
+  .job-dates .now { color: var(--accent); font-weight: 600; }
+  .job ul { margin-top: 6px; }
+  .job li { font-size: 0.9rem; color: var(--ink-2); margin-bottom: 4px; padding-left: 1.1em; text-indent: -1.1em; }
+  .job li::before { content: "▸"; position: absolute; left: 0; color: var(--accent); }
+
+  /* Skills */
+  .skill-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px 28px; }
+  .skill-grid .skill { }
+  .skill-grid .skill .k { font-weight: 700; font-size: 0.88rem; color: var(--ink); }
+  .skill-grid .skill .v { font-size: 0.86rem; color: var(--ink-2); }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip {
+    background: var(--chip); color: #065f46;
+    border: 1px solid #a7f3d0;
+    border-radius: 999px; padding: 5px 12px;
+    font-size: 0.8rem; font-weight: 500;
+  }
+
+  /* Education & languages row */
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+  .edu-item { margin-bottom: 6px; font-size: 0.9rem; }
+  .edu-item .deg { font-weight: 700; }
+  .edu-item .sch { color: var(--ink-2); font-size: 0.86rem; }
+  .edu-item .yr { color: var(--muted); font-size: 0.8rem; }
+  .lang-item { display: flex; justify-content: space-between; font-size: 0.88rem; padding: 3px 0; border-bottom: 1px dashed var(--line); }
+  .lang-item .lvl { color: var(--muted); }
+
+  h2.sub {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 0.9rem; font-weight: 700; color: var(--ink);
+    text-transform: uppercase; letter-spacing: 0.08em;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 6px; margin-bottom: 14px;
+  }
+
+  .cert-list { list-style: none; padding: 0; columns: 2; column-gap: 28px; }
+  .cert-list li { font-size: 0.84rem; color: var(--ink-2); margin-bottom: 5px; break-inside: avoid; }
+  .cert-list .yr { color: var(--muted); }
+
+  /* ---------- Print / PDF ---------- */
+  @media print {
+    @page { size: A4; margin: 10mm 8mm; }
+    body { background: #fff; padding: 0; }
+    .sheet { box-shadow: none; border-radius: 0; max-width: none; }
+    section { break-inside: avoid; }
+    .job { break-inside: avoid; }
+    h2.sub, .section-title { break-after: avoid; }
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <header>
+    <img class="avatar" src="traycho_profile_photo.jpeg" alt="Traycho Milev" />
+    <div class="hero-main">
+      <h1>Traycho Milev</h1>
+      <div class="headline">Lead AI &amp; Data Architect · Head of Data Strategy</div>
+      <p class="tagline">Data architect and technology leader with 10+ years designing cloud-native data platforms, RAG pipelines, vector databases, and LLM-driven applications — turning emerging AI capability into production systems that ship.</p>
+      <div class="contact">
+        <span><span class="ico">📍</span> Bulgaria</span>
+        <span><span class="ico">📞</span> +359 886 950 896</span>
+        <span><span class="ico">✉️</span> <a href="mailto:traychomilev@yahoo.com">traychomilev@yahoo.com</a></span>
+        <span><span class="ico">🔗</span> <a href="https://linkedin.com/in/traycho-milev" target="_blank">linkedin.com/in/traycho-milev</a></span>
+      </div>
+    </div>
+  </header>
+
+  <div class="body">
+
+    <section>
+      <div class="section-title">Profile</div>
+      <p class="lead">
+        Senior data architect and AI solution leader with a decade of experience building scalable data platforms,
+        cloud analytics, and AI-enabled products. Deep hands-on expertise in
+        <strong>RAG (Retrieval-Augmented Generation) pipelines</strong>,
+        <strong>vector databases</strong>, <strong>semantic search</strong>, and
+        <strong>LLM application architecture</strong>, including
+        <strong>Model Context Protocol (MCP)</strong> servers and agentic workflows.
+        Strong in platform strategy, data governance, security hardening, and leading cross-functional teams to deliver
+        enterprise-grade systems. Focused on pragmatic adoption of generative AI and agentic intelligence.
+      </p>
+    </section>
+
+    <section>
+      <div class="section-title">Impact</div>
+      <div class="impact">
+        <div class="card"><div class="num">$1M+</div><div class="lbl">Saved a client via FinOps optimization</div></div>
+        <div class="card"><div class="num">99.9%</div><div class="lbl">SLA uptime across 500+ production DAGs</div></div>
+        <div class="card"><div class="num">1M+ LOC</div><div class="lbl">Managed across client infrastructure</div></div>
+        <div class="card"><div class="num">RAG</div><div class="lbl">Architected &amp; deployed RAG solutions</div></div>
+        <div class="card"><div class="num">0</div><div class="lbl">Zero-downtime full DB migrations delivered</div></div>
+        <div class="card"><div class="num">End-to-end</div><div class="lbl">Production APIs with security hardening</div></div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-title">Professional Experience</div>
+      <div class="job">
+        <div class="job-head">
+          <div><span class="job-title">Senior Data Architecture Consultant</span> · <span class="job-company">Analytics8</span></div>
+          <div class="job-dates">Mar 2024 – <span class="now">Present</span></div>
+        </div>
+        <ul>
+          <li>Lead solution design for AI-enabled data platforms — RAG pipelines, vector search, and LLM-powered analytics for enterprise clients.</li>
+          <li>Architected semantic-search and retrieval systems over internal and client document stores, closing the gap between unstructured data and actionable answers.</li>
+          <li>Own cloud data architecture, modernization roadmaps, and governance across AWS/Azure/GCP environments.</li>
+          <li>Mentor engineers and translate business requirements into secure, scalable, production-grade data and AI solutions.</li>
+        </ul>
+      </div>
+      <div class="job">
+        <div class="job-head">
+          <div><span class="job-title">Senior Cloud Data Engineer</span> · <span class="job-company">DataOps.live</span></div>
+          <div class="job-dates">Aug 2022 – Mar 2024</div>
+        </div>
+        <ul>
+          <li>Designed and maintained 500+ production DAGs while holding a 99.9% SLA, ensuring reliable scheduled data pipelines at scale.</li>
+          <li>Built production-grade data and API solutions with comprehensive security hardening and observability.</li>
+          <li>Executed full database migrations across multiple clients with zero critical downtime.</li>
+        </ul>
+      </div>
+      <div class="job">
+        <div class="job-head">
+          <div><span class="job-title">Senior Sustainable IT Engineer</span> · <span class="job-company">AtScale</span></div>
+          <div class="job-dates">Oct 2021 – Aug 2022</div>
+        </div>
+        <ul>
+          <li>Led sustainable, efficient data-infra initiatives balancing performance, cost, and environmental impact.</li>
+        </ul>
+      </div>
+      <div class="job">
+        <div class="job-head">
+          <div><span class="job-title">Senior BI Analyst — Project Lead</span> · <span class="job-company">ServiceSource (Concentrix)</span></div>
+          <div class="job-dates">Aug 2021 – Oct 2021</div>
+        </div>
+        <ul>
+          <li>Led BI delivery projects, coordinating stakeholders and technical teams to ship reporting &amp; analytics solutions.</li>
+        </ul>
+      </div>
+      <div class="job">
+        <div class="job-head">
+          <div><span class="job-title">Senior Data Analysis &amp; Reporting Lead</span> · <span class="job-company">Dext</span></div>
+          <div class="job-dates">May 2020 – Aug 2021</div>
+        </div>
+        <ul>
+          <li>Directed data-analysis and reporting initiatives, standardizing outputs and enabling data-driven decisions.</li>
+        </ul>
+      </div>
+      <div class="job">
+        <div class="job-head">
+          <div><span class="job-title">Chief Data Analysis Manager</span> · <span class="job-company">Dantek Ltd.</span></div>
+          <div class="job-dates">Aug 2015 – Apr 2020</div>
+        </div>
+        <ul>
+          <li>Built and managed the data-analysis function, establishing standards, governance, and team development.</li>
+        </ul>
+      </div>
+      <div class="job">
+        <div class="job-head">
+          <div><span class="job-title">Expert Data Analyst</span> · <span class="job-company">Dantek Ltd.</span></div>
+          <div class="job-dates">Aug 2014 – Jul 2015</div>
+        </div>
+        <ul>
+          <li>Delivered advanced analytics and reporting that underpinned enterprise decisioning.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-title">Technical Skills</div>
+      <div class="skill-grid">
+        <div class="skill"><span class="k">AI &amp; Machine Learning</span><br /><span class="v">RAG Pipelines · Vector Databases · Semantic Search · LLM Application Architecture · Agentic Workflows · MCP (Model Context Protocol)</span></div>
+        <div class="skill"><span class="k">Cloud Platforms</span><br /><span class="v">AWS · Azure · GCP</span></div>
+        <div class="skill"><span class="k">Orchestration &amp; Data Engineering</span><br /><span class="v">Docker · Kubernetes · Apache Airflow · dbT · Fivetran · Snowflake · BigQuery</span></div>
+        <div class="skill"><span class="k">Infrastructure as Code &amp; DevOps</span><br /><span class="v">Terraform · Ansible · GitOps (Argo CD) · GitLab CI · Jenkins · CircleCI · GitHub Actions</span></div>
+        <div class="skill"><span class="k">Data &amp; Governance</span><br /><span class="v">Data Governance · MDM · Metadata Management · Row-Level Access · Data Quality</span></div>
+        <div class="skill"><span class="k">Security &amp; Observability</span><br /><span class="v">API Security · Vulnerability Scanning · Encryption · Datadog · Grafana · ELK · Sentry</span></div>
+        <div class="skill"><span class="k">Languages &amp; Query</span><br /><span class="v">Python · SQL · JavaScript · Bash · GraphQL (Neo4j)</span></div>
+        <div class="skill"><span class="k">Networking</span><br /><span class="v">TCP/IP · DNS · Load Balancing · VPN · VPC</span></div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-title">AI &amp; Agentic Tech Focus</div>
+      <div class="chips">
+        <span class="chip">Retrieval-Augmented Generation (RAG)</span>
+        <span class="chip">Vector Databases &amp; Embeddings</span>
+        <span class="chip">LLM Application Design</span>
+        <span class="chip">Model Context Protocol (MCP)</span>
+        <span class="chip">Agentic Workflows</span>
+        <span class="chip">Autonomous AI Agents</span>
+        <span class="chip">Semantic Search</span>
+        <span class="chip">GenAI Architecture</span>
+        <span class="chip">AI Security &amp; Risk</span>
+        <span class="chip">LangChain</span>
+      </div>
+    </section>
+
+    <div class="two-col">
+      <section>
+        <div class="section-title">Education</div>
+        <div class="edu-item"><span class="deg">Master's — International Law &amp; Legal Studies</span><br /><span class="sch">Leiden University</span><br /><span class="yr">2013 – 2014</span></div>
+        <div class="edu-item"><span class="deg">LLB — International Law &amp; Legal Studies</span><br /><span class="sch">University of Groningen</span><br /><span class="yr">2010 – 2013</span></div>
+        <div class="edu-item"><span class="sch">Erasmus Exchange — Comparative Law</span><br /><span class="sch">University of Ljubljana</span><br /><span class="yr">2013</span></div>
+      </section>
+
+      <section>
+        <div class="section-title">Languages</div>
+        <div class="lang-item"><span>Bulgarian</span><span class="lvl">Native</span></div>
+        <div class="lang-item"><span>English</span><span class="lvl">Full Professional</span></div>
+        <div class="lang-item"><span>Russian</span><span class="lvl">Full Professional</span></div>
+        <div class="lang-item"><span>Python</span><span class="lvl">Full Professional</span></div>
+        <div class="lang-item"><span>SQL</span><span class="lvl">Full Professional</span></div>
+      </section>
+    </div>
+
+    <section>
+      <div class="section-title">Selected Certifications &amp; Training</div>
+      <ul class="cert-list">
+        <li>Agentic AI — Risk &amp; Cybersecurity · Udemy <span class="yr">(2026)</span></li>
+        <li>AI Agents &amp; Workflows — The Practical Guide · Udemy <span class="yr">(2026)</span></li>
+        <li>Hands-On RAG with LangChain · Udemy <span class="yr">(2026)</span></li>
+        <li>OpenClaw: Run Powerful &amp; Autonomous AI Agents Securely · Udemy <span class="yr">(2026)</span></li>
+        <li>GenAI &amp; LLM — Healthcare Industry Specialization · Databricks <span class="yr">(2026)</span></li>
+        <li>Agentic Workflows with MCP · Analytics8 <span class="yr">(2026)</span></li>
+        <li>Lab — Managed MCPs · Analytics8 <span class="yr">(2026)</span></li>
+        <li>MCP Developer Guide: Agents, Servers &amp; Tools · Udemy <span class="yr">(2025)</span></li>
+        <li>MCP Masterclass — Complete Guide to MCP in Python · Udemy <span class="yr">(2025)</span></li>
+        <li>MCP Security Fundamentals · APIsec <span class="yr">(2025)</span></li>
+        <li>Apache Airflow 3 Fundamentals · Astronomer <span class="yr">(2025)</span></li>
+        <li>FinOps Certified Practitioner (FOCP) <span class="yr">(2025)</span></li>
+        <li>API Security Analyst · APIsec <span class="yr">(2024)</span></li>
+        <li>Neo4j Certified Professional <span class="yr">(2023)</span></li>
+        <li>Google Cloud Fundamentals <span class="yr">(2024)</span></li>
+        <li>Snowflake SnowPro Core <span class="yr">(2024)</span></li>
+      </ul>
+    </section>
+
+  </div>
+</div>
+</body>
+</html>
